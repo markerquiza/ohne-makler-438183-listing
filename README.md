@@ -14,4 +14,4 @@ All page assets are stored locally and referenced with relative paths. The tour 
 
 Open `index.html` in a browser. For hosting, publish the repository root as a static site, or upload its contents to the existing Cloudflare Worker’s R2 bucket.
 
-This repository is intended to remain private because it contains property photos and documents.
+This repository is public to support GitHub Pages. The listing, photos, and PDF attachments are therefore publicly accessible to anyone with the site or repository URL.
